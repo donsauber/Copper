@@ -99,7 +99,7 @@ Readable. Diff-friendly. And trivial to parse.
 ## **📜 License**
 
 **Code (parsers, examples, tools):**  
- MIT License © 2025 *\[Your Name\]*
+ MIT License © 2025 *\Donald R Sauber*
 
 **Copper (.copr) format specification:**  
  Released under Creative Commons Zero 1.0 Universal (CC0)
