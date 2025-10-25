@@ -7,7 +7,7 @@ name = "copper-parser"
 version = "0.1.0"
 description = "Reference Python parser for the Copper (.copr) human-readable data format"
 authors = [
-    { name = "Your Name", email = "your@email.com" }
+    { name = "Donald R Sauber", email = "garrowolf@gmail.com" }
 ]
 license = { text = "MIT" }
 readme = "README.md"
@@ -15,4 +15,4 @@ requires-python = ">=3.8"
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/yourname/copper-format"
+Homepage = "https://github.com/donsauber/copper"
