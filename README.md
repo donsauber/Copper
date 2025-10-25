@@ -68,7 +68,7 @@ Readable. Diff-friendly. And trivial to parse.
 ---
 
 ## **🛠️ Example Parser (Python)**
-
+```
 `from pathlib import Path`  
 `from pprint import pprint`
 
@@ -93,7 +93,7 @@ Readable. Diff-friendly. And trivial to parse.
     `return data`
 
 `pprint(parse_copr("example.copr"))`
-
+```
 ---
 
 ## **📜 License**
